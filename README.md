@@ -1,3 +1,4 @@
 # MusicBe
-Quickly made code for a music player, not reader-friendly.
-Will make the code more user and reader friendly later on
+![alt text](https://i.imgur.com/FmT9RZq.png)
+TO COME:
+Bug fixes and better readability!
